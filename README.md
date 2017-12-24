@@ -2,7 +2,7 @@
 
 A Mac OS command line script to stream [KEXP](https://www.kexp.org) via iTunes.
 
-This may just be the most uselful line of code I have ever written.
+This may just be the most useful line of code I have ever written.
 
 ### 1. Install
 
