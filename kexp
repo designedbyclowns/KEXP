@@ -1,0 +1,5 @@
+#!/usr/bin/osascript
+
+tell application "iTunes"
+	open location "http://live-aacplus-64.kexp.org/kexp64.aac"
+end tell
